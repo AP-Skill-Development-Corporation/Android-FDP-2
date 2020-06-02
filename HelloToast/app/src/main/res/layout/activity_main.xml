@@ -10,7 +10,8 @@
 
     <Button
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         android:background="@color/colorPrimary"
         android:text="@string/toast"
         android:textColor="@color/white_color"
@@ -20,16 +21,19 @@
     <TextView
         android:textSize="100sp"
         android:textStyle="bold"
+        android:gravity="center"
         android:textColor="@color/colorPrimary"
         android:background="@color/yellow"
         android:text="@string/default_value"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="8"
         />
 
     <Button
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         android:background="@color/colorPrimary"
         android:text="@string/count"
         android:textColor="@color/white_color"

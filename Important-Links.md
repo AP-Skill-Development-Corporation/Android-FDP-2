@@ -6,3 +6,4 @@
 - [Read About Button Here](https://developer.android.com/reference/android/widget/Button)
 - [Read About TextView Here](https://developer.android.com/reference/android/widget/TextView)
 - [Read About Toast Here](https://developer.android.com/guide/topics/ui/notifiers/toasts)
+- [Read About Intents & Intent-filters Here](https://developer.android.com/guide/components/intents-filters)

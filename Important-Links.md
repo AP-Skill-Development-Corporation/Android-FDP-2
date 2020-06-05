@@ -7,3 +7,6 @@
 - [Read About TextView Here](https://developer.android.com/reference/android/widget/TextView)
 - [Read About Toast Here](https://developer.android.com/guide/topics/ui/notifiers/toasts)
 - [Read About Intents & Intent-filters Here](https://developer.android.com/guide/components/intents-filters)
+- [Read About Multi Window Support](https://developer.android.com/guide/topics/ui/multi-window)
+- [Read About RtlSuport](https://developer.android.com/guide/topics/manifest/application-element#supportsrtl)
+- [Read About The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)

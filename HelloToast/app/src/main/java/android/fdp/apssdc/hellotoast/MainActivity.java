@@ -1,5 +1,6 @@
 package android.fdp.apssdc.hellotoast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -19,6 +20,12 @@ public class MainActivity extends AppCompatActivity {
 
         // connecting count_tv with result
         result = findViewById(R.id.count_tv);
+
+        //Getting the stored value out of the bundle.
+        if(savedInstanceState!=null && savedInstanceState.containsKey("KEY")){
+            count = savedInstanceState.getInt("KEY");
+            result.setText(String.valueOf(count));
+        }
     }
 
     /*The Following method will be invoked
@@ -33,5 +40,11 @@ public class MainActivity extends AppCompatActivity {
     public void showCount(View view) {
         count++;
         result.setText(String.valueOf(count));
+    }
+
+    @Override
+    protected void onSaveInstanceState(@NonNull Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putInt("KEY",count);
     }
 }

@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
          adapter.add(new CallFragment(),"Call");
          viewPager.setAdapter(adapter);
          tabLayout.setupWithViewPager(viewPager);
+         /*Hai This is Krishna*/
 
 
     }

@@ -7,3 +7,7 @@
 [Day-3 03-06-2020 Class](https://youtu.be/VPlIgq--q5c)
 
 [Day-4 04-06-2020 Class](https://youtu.be/2BzrLSWI5ds)
+
+[Day-5 05-06-2020 Class](https://youtu.be/eIRt5IRjYkQ)
+
+[Day-7 08-06-2020 Class](https://youtu.be/iLX1aSAh0gM)

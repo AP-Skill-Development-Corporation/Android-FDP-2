@@ -13,3 +13,5 @@
 [Day-7 08-06-2020 Class](https://youtu.be/iLX1aSAh0gM)
 
 [Day-8 09-06-2020 Class](https://youtu.be/DhfaNiMyXN0)
+
+[Day-9 10-06-2020 Class Part-1](https://youtu.be/YyLVPBvaF1I)

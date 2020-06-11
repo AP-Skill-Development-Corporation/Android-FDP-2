@@ -11,3 +11,5 @@
 - [Read About RtlSuport](https://developer.android.com/guide/topics/manifest/application-element#supportsrtl)
 - [Read About The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 - [Read About Retrofit here](https://github.com/square/retrofit)
+- [Read About Retrofit here(Official Website Link)](https://square.github.io/retrofit/)
+
